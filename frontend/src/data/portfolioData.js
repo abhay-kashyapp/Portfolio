@@ -25,9 +25,9 @@ export const personalInfo = {
         ]
     },
     socialLinks: {
-        linkedin: "https://linkedin.com/in/abhaykashyap",
-        github: "https://github.com/abhaykashyap",
-        leetcode: "https://leetcode.com/abhaykashyap"
+        linkedin: "https://www.linkedin.com/in/abhaykashyapak/",
+        github: "https://github.com/abhay-kashyapp",
+        leetcode: "https://leetcode.com/problemset/"
     }
 };
 
